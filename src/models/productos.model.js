@@ -1,5 +1,5 @@
 import dbconnection from "../database/connection.js";
-import { existe_barcode } from "../helpers/existeBarcode.js";
+
 
 const connection = dbconnection();
 
